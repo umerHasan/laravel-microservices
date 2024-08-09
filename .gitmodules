@@ -1,0 +1,6 @@
+[submodule "laravel-ambassador"]
+	path = laravel-ambassador
+	url = ./laravel-ambassador
+[submodule "react-ambassador"]
+	path = react-ambassador
+	url = .\\react-ambassador\\
